@@ -23,6 +23,12 @@ At chessevents.io, we recognize the growing demand for over-the-board Chess even
 
 The Chess community has experienced significant growth in recent years, with a large number of enthusiasts participating in both online and offline events. However, the current event management systems often lack user-friendliness, efficient payment processing, and real-time result publication. Our platform aims to bridge these gaps and become the go-to solution for both organizers and players.
 
+Target Market:
+
+- Internationally rated players (source [FIDE](https://ratings.fide.com/download_lists.phtml)): **1,266,351** as at June 2023
+- Online Players (source [Chess.com](https://www.chess.com/article/view/chesscom-reaches-100-million-members)): **100,000,000** as at December 2022
+- Active UK players (source [ECF](https://www.ecfrating.org.uk/v2/help/help_api.php)): **26,335** as at June 2023
+
 ## Proposed Solution 🚀
 
 Our platform will be developed using cutting-edge technologies, ensuring a secure, scalable, and user-friendly experience. The key functionalities of the platform will include:
