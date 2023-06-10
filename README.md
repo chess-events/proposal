@@ -41,7 +41,8 @@ Our platform will be developed using cutting-edge technologies, ensuring a secur
 
 **Real-time Results and Standings**: Organizers can enter event results, update standings in real-time, and make game records available to participants and spectators.
 
-**Revenue Model**:
+## Revenue Model 💰
+
 To generate revenue, we propose implementing the following revenue streams:
 
 **Commission Fee**: We will charge a small commission fee for each player registration, which will be deducted from the registration fee paid by the participants.
