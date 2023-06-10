@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo-no-background.png" width="240" />
+  <img src="assets/logo-no-background.png" width="300" />
   <h2 align="center">Proposal</h2>
 </p>
 
@@ -38,9 +38,9 @@ Our platform will be developed using cutting-edge technologies, ensuring a secur
 **Revenue Model**:
 To generate revenue, we propose implementing the following revenue streams:
 
-Commission Fee: We will charge a small commission fee for each player registration, which will be deducted from the registration fee paid by the participants.
+**Commission Fee**: We will charge a small commission fee for each player registration, which will be deducted from the registration fee paid by the participants.
 
-Premium Features: We will offer premium features to organizers, such as advanced event analytics, targeted promotions, and priority customer support, for a monthly or annual subscription fee.
+**Premium Features**: We will offer premium features to organizers, such as advanced event analytics, targeted promotions, and priority customer support, for a monthly or annual subscription fee.
 
 ## Project Timeline ⏰
 
