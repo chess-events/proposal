@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo-no-background.png" width="120" />
+  <img src="assets/logo-no-background.png" width="240" />
   <h2 align="center">Proposal</h2>
 </p>
 
