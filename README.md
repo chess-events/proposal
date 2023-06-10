@@ -1,8 +1,12 @@
-# Proposal
+<p align="center">
+  <img src="assets/logo-no-background.png" width="120" />
+  <h2 align="center">Proposal</h2>
+</p>
 
 A comprehensive business proposal for the development and implementation of a platform specifically designed to offer Chess events for players to sign up, and to provide organizers with an efficient and user-friendly tool to create, manage, process payments, and publish their event results. Our aim is to revolutionize the way Chess events are organized and elevate the overall experience for both players and organizers.
 
-## Executive Summary:
+## Executive Summary 👔
+
 At chessevents.io, we recognize the growing demand for over-the-board Chess events and the need for an all-in-one platform that simplifies event management. Our proposed platform will cater to this demand by providing the following features:
 
 **User-friendly Interface**: An intuitive and visually appealing web interface that enables users to navigate seamlessly through event registration, payment processing, event management, and result publication.
@@ -15,10 +19,12 @@ At chessevents.io, we recognize the growing demand for over-the-board Chess even
 
 **Result Publication**: A dedicated section where organizers can input and publish event results in real-time, allowing participants and spectators to track progress, view standings, and access game records.
 
-## Market Analysis:
+## Market Analysis 📈
+
 The Chess community has experienced significant growth in recent years, with a large number of enthusiasts participating in both online and offline events. However, the current event management systems often lack user-friendliness, efficient payment processing, and real-time result publication. Our platform aims to bridge these gaps and become the go-to solution for both organizers and players.
 
-## Proposed Solution:
+## Proposed Solution 🚀
+
 Our platform will be developed using cutting-edge technologies, ensuring a secure, scalable, and user-friendly experience. The key functionalities of the platform will include:
 
 **User Registration and Profiles**: Players can create personal accounts, manage their profiles, track their participation history, and receive notifications about upcoming events.
@@ -36,12 +42,13 @@ Commission Fee: We will charge a small commission fee for each player registrati
 
 Premium Features: We will offer premium features to organizers, such as advanced event analytics, targeted promotions, and priority customer support, for a monthly or annual subscription fee.
 
-## Project Timeline:
+## Project Timeline ⏰
+
 We anticipate a development and implementation timeline of 12 months, which includes the following key milestones:
 
-- Requirements Gathering and Analysis: 8 weeks
-- Design and Development: 48 weeks
-- Testing and Quality Assurance: 4 weeks
-- Deployment and Launch: 2 weeks
+- Requirements Gathering and Analysis: ~8 weeks
+- Design and Development: ~38 weeks
+- Testing and Quality Assurance: ~4 weeks
+- Deployment and Launch: ~2 weeks
 
-Investment Required to bring this project to fruition
+Investment Required to bring this project to fruition.
