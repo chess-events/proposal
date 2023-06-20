@@ -5,6 +5,9 @@
 
 A comprehensive business proposal for the development and implementation of a platform specifically designed to offer Chess events for players to sign up, and to provide organizers with an efficient and user-friendly tool to create, manage, process payments, and publish their event results. Our aim is to revolutionize the way Chess events are organized and elevate the overall experience for both players and organizers.
 
+### Quick Links
+- [Architecture](./Architecture.md)
+
 ## Executive Summary 👔
 
 At chessevents.io, we recognize the growing demand for over-the-board Chess events and the need for an all-in-one platform that simplifies event management. Our proposed platform will cater to this demand by providing the following features:
