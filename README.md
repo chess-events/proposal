@@ -7,6 +7,8 @@ A comprehensive business proposal for the development and implementation of a pl
 
 ### Quick Links
 - [Architecture](./Architecture.md)
+- [Features](./Features.md)
+- [User Stories](./UserStories.md)
 
 ## Executive Summary 👔
 
